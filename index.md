@@ -7,6 +7,9 @@
 
 
 
+```c++
+char s[15] = "Hello, world!";
+```
 
 
 
