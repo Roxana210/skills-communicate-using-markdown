@@ -12,7 +12,10 @@ char s[15] = "Hello, world!";
 ```
 
 
-
+- [ ] Add headers
+- [ ] Add an image
+- [ ] Add code
+- [ ] Add a task list
 
 
 
