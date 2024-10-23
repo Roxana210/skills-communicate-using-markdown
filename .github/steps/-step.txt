@@ -1,5 +1,2 @@
 5
-- [ ] Add headers
-- [ ] Add an image
-- [ ] Add code
-- [ ] Add a task list
+
